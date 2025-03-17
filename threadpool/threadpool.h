@@ -125,7 +125,7 @@ void threadpool<T>::run() {
                 else {
                     request->improv = 1;
                     request->time_flag = 1;
-                }G
+                }
             }
         }
         //proactor
